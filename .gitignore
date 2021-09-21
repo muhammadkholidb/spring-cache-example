@@ -1,0 +1,11 @@
+target/
+logs/
+.settings/
+.vscode/
+.history/
+.idea/
+build/
+.project
+.classpath
+.factorypath
+*.iml
